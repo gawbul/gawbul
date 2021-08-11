@@ -35,9 +35,9 @@ Anything relating to Computational Genomics (Bioinformatics, Comparative Genomic
 
 #### - 😄 Pronouns: ...
 
-they/them/theirs
+they/them/theirs.
 
-*I don't identify as non-binary, but I believe gender can often be used negatively, so prefer not to use a binary pronoun*
+*I don't identify as non-binary, but I believe gender can often be used negatively, so prefer not to use a binary pronoun*.
 
 #### - ⚡ Fun fact: ...
 
