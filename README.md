@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gawbul&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-I am an **M.Sc. student in [Computer Science](https://www.cs.york.ac.uk/) at the [University of York](https://github.com/orgs/university-of-york/) in the UK** and the **founder of [pyOpenSci](https://github.com/orgs/pyopensci)** as well as **a [freelance consultant](https://www.linkedin.com/company/stephenpmoss) in the field of Computational Genomics**. I work as **a Site Reliability Engineer at [Kaluza](https://www.kaluza.com), part of [OVO Technology](https://github.com/orgs/ovotech)**. I have a **Ph.D. in Biological Sciences** focusing on questions within Bioinformatics, Comparative Genomics and Molecular Evolution from the [University of Hull](https://www.hull.ac.uk) (as part of the [EvoHull](http://www.evohull.org) Group).
+I am an **M.Sc. student in [Computer Science](https://www.cs.york.ac.uk/) at the [University of York](https://github.com/orgs/university-of-york/) in the UK** and the **founder of [pyOpenSci](https://github.com/orgs/pyopensci)** as well as **a [freelance consultant](https://www.linkedin.com/company/stephenpmoss) in the field of Computational Genomics**. I work as **a Site Reliability Engineer at [Kaluza](https://www.kaluza.com), part of [OVO Technology](https://github.com/orgs/ovotech)**. I have a **Ph.D. in Biological Sciences** from the [University of Hull](https://www.hull.ac.uk) (as part of the [EvoHull](http://www.evohull.org) Group) focusing on questions within Bioinformatics, Comparative Genomics and Molecular Evolution.
 
 #### - 🔭 I’m currently working on ...
 
