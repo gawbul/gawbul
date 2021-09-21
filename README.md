@@ -2,19 +2,21 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gawbul&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-I am an **M.Sc. student in [Computer Science](https://www.cs.york.ac.uk/) at the [University of York](https://github.com/orgs/university-of-york/) in the UK** and the **founder of [pyOpenSci](https://github.com/orgs/pyopensci)** as well as **a [freelance consultant](https://www.linkedin.com/company/stephenpmoss) in the field of Computational Genomics**. I work as **a Site Reliability Engineer at [Kaluza](https://www.kaluza.com), part of [OVO Technology](https://github.com/orgs/ovotech)**. I have a **Ph.D. in Biological Sciences** from the [University of Hull](https://www.hull.ac.uk) (as part of the [EvoHull](http://www.evohull.org) Group) focusing on questions within Bioinformatics, Comparative Genomics and Molecular Evolution.
+I am a **[Computational Scientist](https://en.wikipedia.org/wiki/Computational_scientist)**, **[Genomicist](https://en.wiktionary.org/wiki/genomicist)**, and **M.Sc. student in [Computer Science](https://www.cs.york.ac.uk/) at the [University of York](https://github.com/orgs/university-of-york/) in the UK** and the **founder of [pyOpenSci](https://github.com/orgs/pyopensci)** as well as **a [freelance research consultant](https://www.linkedin.com/company/stephenpmoss) in the field of Computational Genomics**. I work as **a Site Reliability Engineer at [Kaluza](https://www.kaluza.com), part of [OVO Technology](https://github.com/orgs/ovotech)**. I have a **Ph.D. in Biological Sciences** from the [University of Hull](https://www.hull.ac.uk) (as part of the [EvoHull](http://www.evohull.org) Group) focusing on questions within Bioinformatics, Comparative Genomics and Molecular Evolution. My research interests centre around **[Biological Anthropology](https://en.wikipedia.org/wiki/Biological_anthropology)**, **[Palaeopathology](https://en.wikipedia.org/wiki/Paleopathology)** (with a particular focus on the (co)evolution of **[infectious diseases](https://en.wikipedia.org/wiki/Infection)**, and **[Evolutionary Medicine](https://en.wikipedia.org/wiki/Evolutionary_medicine)**.
 
 #### - 🔭 I’m currently working on ...
 
 [Pathlength](https://github.com/gawbul/pathlength) a ray tracing program for calculating resolution and sensitivity in crustacean eyes (reniform reflecting superposition compound eyes).
 
+A [comparative genomic analyses of introns](https://github.com/gawbul/fish_introns) in several species of fish using publicly available data from the [Ensembl](https://www.ensembl.org) genome project.
+
 #### - 🌱 I’m currently learning ...
 
-Trying to learn ~~too many things~~ [Go](https://golang.org), all about the [Science of Exercise](https://www.coursera.org/learn/science-exercise), various topics within SRE from [Google](https://sre.google) including [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos#syllabus) and working towards a number of [AWS](https://aws.amazon.com/certification/) and [GCP](https://cloud.google.com/certification) certifications, utilising resources such as [Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp). I am also interested in learning more about Data Science, Machine Learning and AI in general.
+Trying to learn ~~too many things~~ [Go](https://golang.org), all about the [Science of Exercise](https://www.coursera.org/learn/science-exercise), various topics within SRE from [Google](https://sre.google) including [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos#syllabus) and working towards a number of [AWS](https://aws.amazon.com/certification/) and [GCP](https://cloud.google.com/certification) certifications, utilising resources such as [Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp). I am also interested in learning more about Data Science, Machine Learning and AI with a view to applying it to my genomics research.
 
 #### - 👯 I’m looking to collaborate on ...
 
-Any interesting problems and challenges within a variety of different fields that are amenable to being solved using methods within the broader scope of Computational Science.
+Any interesting problems and challenges within a variety of different fields that are amenable to being solved using methods within the broader scope of Computational Science and Genomics.
 
 #### - 🤔 I’m looking for help with ...
 
