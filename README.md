@@ -24,7 +24,7 @@ Developing my theoretical understanding of Software Engineering and learning mor
 
 #### - 💬 Ask me about ...
 
-Anything relating to Computational Genomics (Bioinformatics, Comparative Genomics and Molecular Evolution), DevOps and Site Reliability Engineering as well as Cloud Computing.
+Anything relating to Computational Genomics (Bioinformatics, Comparative Genomics and Molecular Evolution), DevOps and Site Reliability Engineering as well as Cloud, High-Performance, and Scientific Computing.
 
 #### - 📫 How to reach me: ...
 
