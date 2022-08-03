@@ -46,4 +46,4 @@ they/them/theirs.
 
 #### - ⚡ Fun fact: ...
 
-I worked as a [Security Operative and Bouncer](https://professionalsecurityuk.com) for over 11 years. I am a boxer, martial artist and yogi.
+I worked as a [Security Operative and Bouncer](https://professionalsecurityuk.com) for over 11 years. I am a pugilist, martial artist and yogi.
