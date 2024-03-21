@@ -33,16 +33,13 @@ Anything relating to Computational Genomics (Bioinformatics, Comparative Genomic
 - My [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=KD8T2ZwAAAAJ)
 - My [LinkedIn](https://www.linkedin.com/in/stephenpmoss/)
 - My [Instagram](https://www.instagram.com/gawbul)
-- My [Twitter](https://www.twitter.com/gawbul)
+- My [Threads](https://www.threads.net/@gawbul)
+- My [Twitter/X](https://www.twitter.com/gawbul)
 - My <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#097;&#119;&#098;&#117;&#108;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">Email</a>
 
 #### - 😄 Pronouns: ...
 
-they/them/theirs.
-
-*I don't identify as non-binary, but I believe gender can often be used negatively or in a discriminatory manner, so I prefer not to use a binary pronoun*.
-
-*I look forward to a day when we are just clasified as human beings, or simply individuals*.
+he/him/his.
 
 #### - ⚡ Fun fact: ...
 
