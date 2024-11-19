@@ -33,8 +33,8 @@ Anything relating to Computational Genomics (Bioinformatics, Comparative Genomic
 - My [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=KD8T2ZwAAAAJ)
 - My [LinkedIn](https://www.linkedin.com/in/stephenpmoss/)
 - My [Instagram](https://www.instagram.com/gawbul)
-- My [Threads](https://www.threads.net/@gawbul)
 - My [Bluesky](https://bsky.app/profile/gawbul.io)
+- My [Threads](https://www.threads.net/@gawbul)
 - My [Twitter/X](https://www.twitter.com/gawbul)
 - My <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#097;&#119;&#098;&#117;&#108;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">Email</a>
 
